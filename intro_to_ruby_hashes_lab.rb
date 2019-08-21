@@ -10,10 +10,8 @@ end
 def monopoly_with_third_tier
   monopoly_set = {
     :railroads => {
-      :pieces => 4
-      
-    },
-    :rent_in_dollars => 1
+      :pieces => 4,
+      :rent_in_dollars => {}
   }
 end
 
