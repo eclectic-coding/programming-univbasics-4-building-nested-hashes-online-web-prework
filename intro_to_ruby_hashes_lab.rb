@@ -1,5 +1,5 @@
 def base_hash
-  monopoly_set = {:key => ""}
+  monopoly_set = {:railroads => ""}
 
 end
 
